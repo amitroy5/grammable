@@ -63,6 +63,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'simple_form'
 
+gem 'devise'
+
 gem 'jquery-rails'
 
 gem 'popper_js', '~> 1.11.1'
